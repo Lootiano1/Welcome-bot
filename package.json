@@ -1,0 +1,12 @@
+{
+  "name": "Welcome-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lootiano1/Welcome-bot",
+  "author": "Lootiano <156411395+Lootiano1@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
